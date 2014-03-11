@@ -1,5 +1,3 @@
-CiviCRM Bitcoin Payment Processor
-=================================
 
 Bitcoin Payment Processor for CiviCRM.
 -------------------------------------
