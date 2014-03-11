@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="com.pankajksharma.bitcoinprocessor" type="module">
+  <file>bitcoinprocessor</file>
+  <name>Bitcoin Payment Processor</name>
+  <description>Payment Processor for Bitcoin</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Pankaj Kumar Sharma</author>
+    <email>sharmapankaj1992@gmail.com</email>
+  </maintainer>
+  <releaseDate>2014-03-11</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments>Part of GSoC project under CiviCRM</comments>
+  <civix>
+    <namespace>CRM/Bitcoinprocessor</namespace>
+  </civix>
+</extension>
